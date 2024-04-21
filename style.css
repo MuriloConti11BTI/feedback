@@ -40,4 +40,6 @@ body {
 
 .estrela {
     background-color: var(--dark-blue);
+    width: 48px;
+    height: 48px;
 }
